@@ -1,4 +1,6 @@
-<img align-items="center" src="https://lh3.googleusercontent.com/5WCa780Y87xZXLqYuPvuB5vbU9iLVzqoRIYVfL2PQZrvOHD_qSeCpGKwQmmf_oUalA=w800"></img>
+<div align="center">
+  <img align-items="center" src="https://lh3.googleusercontent.com/5WCa780Y87xZXLqYuPvuB5vbU9iLVzqoRIYVfL2PQZrvOHD_qSeCpGKwQmmf_oUalA=w800"/>
+<div align="center">
 <h1 align="center">Hi , I'm Lucas 👋</h1>
 <p align="left">
 </p>
