@@ -1,4 +1,4 @@
-<img href="https://img.freepik.com/premium-photo/programming-code-screen-software-developer-software-programming-work-time-code-text-written-created_372999-5836.jpg"></img>
+<img href="https://img.freepik.com/premium-photo/programming-code-screen-software-developer-software-programming-work-time-code-text-written-created_372999-5836.jpg">
 <h1 align="center">Hi , I'm Lucas 👋</h1>
 <p align="left">
 </p>
