@@ -2,7 +2,7 @@
 <!--     <img align-items="center" src="https://media.giphy.com/media/YoKnCymJtTd0S4RLRW/source.gif"/> -->
   <img align-items="center" src="https://lh3.googleusercontent.com/5WCa780Y87xZXLqYuPvuB5vbU9iLVzqoRIYVfL2PQZrvOHD_qSeCpGKwQmmf_oUalA=w800"/>
 <div align="center">
-<h1 align="center">Hi , I'm Lucas 👋</h1>
+<h1 align="center">Hi , I'm Lucas a French developer 👋</h1>
 <p align="left">
 </p>
 
